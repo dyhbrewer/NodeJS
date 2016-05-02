@@ -24,8 +24,19 @@
 ### Import bootstrap css ### 
 `bower install --save bootstrap-css`
 
+## Create Files ##
 ### Create content of server.js ###
-See file
+see server/server.js
 
 ### Create content of home page ###
-See public/application_mount.html
+see index.html and index.jsx
+
+### Create react root component and mount it on home page ###
+see HelloWorld.jsx
+
+## Setup build ##
+see gulpfile.js
+run `gulp` from root to build project
+
+## Run ##
+run `nodemon server.js` from server directory
