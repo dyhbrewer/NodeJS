@@ -18,6 +18,7 @@ Hello World!
 Hello World!
 
 # HelloWorldExpress 运行
+ps:这里所创建是一个最最简单的 Express 应用，并且仅仅只有一个文件 — 和通过 Express 应用生成器 所创建的应用_完全不一样_，Express 应用生成器所创建的应用框架包含多个 JavaScript 文件、Jade 模板和针对不同用途的子目录。
 
 1.按以下教程导入 express 框架
 http://qianduanblog.com/post/nodejs-learning-6-express-install-and-start.html
