@@ -19,5 +19,5 @@ http.createServer(function (request, response) {
 	response.end();
 })
  
-// 监听8888端口
-.listen(8888);
+// 监听2014端口
+.listen(2014);
