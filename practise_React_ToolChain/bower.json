@@ -1,0 +1,20 @@
+{
+  "name": "practise",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "dyhbrewer <181079546@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dyhbrewer/NodeJS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6"
+  }
+}
